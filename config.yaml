@@ -1,0 +1,19 @@
+baseURL: ""
+languageCode: "en-us"
+title: "William Pan"
+hasCJKLanguage: true
+params: 
+  heading: "Starlight Pavilion"
+frontmatter: 
+  date: 
+    - :filename
+permalinks: 
+  posts: /:year/:month/:day/:title/
+blackfriday: 
+  fractions: false
+  extensionsmask: 
+    - noIntraEmphasis
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true 
