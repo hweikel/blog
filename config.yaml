@@ -1,9 +1,9 @@
 baseURL: ""
 languageCode: "en-us"
-title: "William Pan"
+title: "Starlight Convenience"
 hasCJKLanguage: true
 params: 
-  heading: "Starlight Pavilion"
+  heading: "Starlight Convenience"
 frontmatter: 
   date: 
     - :filename
