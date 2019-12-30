@@ -3,7 +3,7 @@ Title: that shape had none
 ---
 In Book Two of *Paradise Lost*, Satan encounters Death at the gates of Hell:
 
->                                The other shape,   
+> The other shape,   
 > If shape it might be call'd that shape had none   
 > Distinguishable in member, joynt, or limb,   
 > Or substance might be call'd that shadow seem'd,   
