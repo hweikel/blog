@@ -1,8 +1,8 @@
 ---
 title:
 ---
-I livein Oxford but dream of the waves.
+A graduate student from California interested in fiction, translation, and architecture.
 
 <p class="center">
-hweikel at berkeley dot edu
+hweikel@berkeley.edu
 </p>
