@@ -16,5 +16,5 @@ Coleridge mentions the scene in an 1811 lecture:
 
 >The grandest efforts of poetry are where the imagination is called forth, not to produce a distinct form, but a strong working of the mind, still offering what is still repelled, and again creating what is again rejected; the result being what the poet wishes to impress, namely the substitution of a sublime feeling of the unimaginable for a mere image.
 
-Milton’s poetry is compelling because it hovers just beyond the limits of the mind. Detail is gestural rather than representational, defying visualization but offering something more interesting in its place. No matter how hard we struggle, poetry will never be painting; these lines embrace the medium rather than fighting it.
+Milton’s poetry is at its best when it hovers just beyond the limits of the mind. This scene's detail is gestural rather than representational, defying visualization but offering something more interesting in its place. No matter how hard we struggle, poetry will never be painting; these lines embrace the medium rather than fighting it.
 
