@@ -1,0 +1,4 @@
+---
+Title: tom on the beach
+---
+I dropped mom off at yoga before heading to a cooking class in a converted martial arts studio. The stairs were impossibly narrow but I had to leave my backpack in a top room where everything shrank away at odd angles. I walked out through the lobby and discovered an airport terminal where Tom Hanks was holding a sign with my name. On the elevator down to Ocean Beach, Tom touched my shoulder and warned me quite earnestly about the tide. As soon as we stepped onto the sand, I saw that he was right: forty foot tall waves, entirely transparent and crashing against a quickly receding strip of coastline under the cliffs. We ran along the beach timing the waves and Tom gave me his phone to call for help. Eventually the tide receded, but new caves had appeared in the cliffside. Elaborate totems were scattered along the sand, and Polynesians emerged in grass suits, adopting formalized poses as they guarded the elevator.
