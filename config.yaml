@@ -1,9 +1,9 @@
 baseURL: ""
 languageCode: "en-us"
-title: "Starlight Convenience"
+title: "dreamlog"
 hasCJKLanguage: true
 params: 
-  heading: "Starlight Convenience"
+  heading: "dreamlog"
 frontmatter: 
   date: 
     - :filename
