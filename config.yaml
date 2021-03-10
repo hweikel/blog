@@ -1,19 +1,24 @@
 baseURL: ""
 languageCode: "en-us"
-title: "dreamlog"
+title: "HW Dreamlog"
 hasCJKLanguage: true
 params: 
-  heading: "dreamlog"
+  heading: ""
 frontmatter: 
   date: 
     - :filename
+    - :default
 permalinks: 
-  posts: /:year/:month/:day/:title/
 blackfriday: 
   fractions: false
   extensionsmask: 
     - noIntraEmphasis
 markup: 
+  # https://gohugo.io/getting-started/configuration-markup#goldmark
+  # https://github.com/yuin/goldmark/
   goldmark: 
+    extensions: 
+      typographer: true
     renderer: 
-      unsafe: true 
+      unsafe: true # render raw HTML
+      hardWraps: true # render newlines as <br>
